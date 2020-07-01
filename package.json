@@ -1,0 +1,24 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "Documentation about Viajando ando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viajando-ando/documentation.git"
+  },
+  "keywords": [
+    "Documentation",
+    "viajando",
+    "ando"
+  ],
+  "author": "David Flores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viajando-ando/documentation/issues"
+  },
+  "homepage": "https://github.com/viajando-ando/documentation#readme"
+}
