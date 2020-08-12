@@ -4,7 +4,7 @@ In this project explain all about of this project
 
 ## You can view the project in the next URL or [live demo](https://viajando-ando.dflores.dev/):
 
-#### `https://platzi-master.dflores.dev/`
+#### `https://viajando-ando.dflores.dev/`
 
 #### Frontend
 
